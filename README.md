@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Cover.png" alt="BankingAB Cover Banner" width="100%">
+  <img src="Images/cover" alt="BankingAB Cover Banner" width="100%">
 </p>
 
 # 🏦 BankingAB – Enterprise Core Banking Analytics Dashboard
