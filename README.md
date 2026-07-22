@@ -2,6 +2,18 @@
   <img src="Images/cover.png" alt="BankingAB Cover Banner" width="100%">
 </p>
 
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-005C9C?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-Data_Pipeline-blue?style=for-the-badge)
+![BFSI](https://img.shields.io/badge/Domain-BFSI-success?style=for-the-badge)
+
+</p>
+
 # 🏦 BankingAB – Enterprise Core Banking Analytics Dashboard
 
 > **An end-to-end Power BI solution for Core Banking System (CBS) analytics built using Oracle SQL, Power Query, DAX, and Power BI Service.**
