@@ -14,6 +14,23 @@
 
 </p>
 
+## 📌 Project Summary
+
+| Category | Details |
+|----------|---------|
+| Domain | Banking (BFSI) |
+| Tool | Microsoft Power BI |
+| Database | Oracle Database |
+| ETL | Power Query |
+| Language | DAX, SQL |
+| Data Model | Star Schema |
+| Reports | 5 Interactive Dashboards |
+| KPIs | 30+ |
+| Drill Through | ✅ |
+| Tooltips | ✅ |
+| Bookmarks | ✅ |
+| Row Level Security | ✅ |
+
 # 🏦 BankingAB – Enterprise Core Banking Analytics Dashboard
 
 > **An end-to-end Power BI solution for Core Banking System (CBS) analytics built using Oracle SQL, Power Query, DAX, and Power BI Service.**
