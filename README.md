@@ -5,8 +5,6 @@
 # 🏦 BankingAB – Enterprise Core Banking Analytics Dashboard
 
 > **An end-to-end Power BI solution for Core Banking System (CBS) analytics built using Oracle SQL, Power Query, DAX, and Power BI Service.**
-# 🏦 BankingAB – Enterprise Core Banking Analytics Dashboard
-
 
 ---
 
