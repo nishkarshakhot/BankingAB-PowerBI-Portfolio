@@ -64,20 +64,6 @@
 
 ✔ Oracle Database Connectivity
 
-# 🚀 Skills Demonstrated
-
-- Power BI
-- Oracle SQL
-- DAX
-- Power Query
-- ETL
-- Data Modeling
-- Star Schema
-- Banking Analytics
-- Dashboard Design
-- KPI Development
-- Data Visualization
-- Business Intelligence
 
 # 🏦 BankingAB – Enterprise Core Banking Analytics Dashboard
 
@@ -236,16 +222,19 @@ BankingAB-PowerBI-Portfolio
 
 ---
 
-## 📈 Skills Demonstrated
+# 🚀 Skills Demonstrated
 
 - Power BI
 - Oracle SQL
 - DAX
 - Power Query
-- Data Modeling
 - ETL
-- Dashboard Design
+- Data Modeling
+- Star Schema
 - Banking Analytics
+- Dashboard Design
+- KPI Development
+- Data Visualization
 - Business Intelligence
 
 ---
@@ -254,6 +243,14 @@ BankingAB-PowerBI-Portfolio
 
 **Nishkarsha Khot**
 
-Oracle PL/SQL Developer | Power BI Developer
+📍 Nagpur, Maharashtra
+
+💼 Oracle PL/SQL Developer | Power BI Developer
+
+🔗 LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/nishkarsha-khot-5969a8246)
+
+📧 Email: 
+
+⭐ If you found this project useful, consider giving it a Star.
 
 Nagpur, Maharashtra, India
