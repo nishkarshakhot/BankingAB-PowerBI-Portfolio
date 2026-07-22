@@ -146,6 +146,7 @@ The project follows a **Star Schema** for optimal performance and scalability.
 
 ![Data Model](Images/DataModel.png)
 
+
 ## ⭐ Key Features
 
 - Star Schema Data Model
