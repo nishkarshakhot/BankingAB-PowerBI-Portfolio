@@ -110,6 +110,36 @@ The project transforms raw Core Banking System (CBS) data into interactive dashb
 
 ---
 
+## 📊 Dashboard Preview
+
+### Branch Performance Dashboard
+
+![Branch Overview](Images/Dashboard1_BranchOverview.png)
+
+---
+
+### Branch Analysis Dashboard
+
+![Branch Analysis](Images/Dashboard2_BranchAnalysis.png)
+
+---
+
+### NPA Analysis Dashboard
+
+![NPA Analysis](Images/Dashboard3_NPAAnalysis.png)
+
+---
+
+### Profitability Dashboard
+
+![Profitability](Images/Dashboard4_Profitability.png)
+
+---
+
+### Custom Tooltip
+
+![Tooltip](Images/Dashboard5_Tooltip.png)
+
 ## ⭐ Key Features
 
 - Star Schema Data Model
