@@ -140,6 +140,12 @@ The project transforms raw Core Banking System (CBS) data into interactive dashb
 
 ![Tooltip](Images/Dashboard5_Tooltip.png)
 
+## ⭐ Data Model
+
+The project follows a **Star Schema** for optimal performance and scalability.
+
+![Data Model](Images/DataModel.png)
+
 ## ⭐ Key Features
 
 - Star Schema Data Model
