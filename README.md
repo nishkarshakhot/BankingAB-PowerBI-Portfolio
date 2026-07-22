@@ -42,6 +42,43 @@
 | Bookmarks | ✅ |
 | Row Level Security | ✅ |
 
+# ⭐ Project Features
+
+✔ Interactive KPI Dashboard
+
+✔ Dynamic Slicers
+
+✔ Drill Through
+
+✔ Custom Tooltips
+
+✔ Bookmarks
+
+✔ Row Level Security
+
+✔ Incremental Refresh
+
+✔ Power Query ETL
+
+✔ Star Schema
+
+✔ Oracle Database Connectivity
+
+# 🚀 Skills Demonstrated
+
+- Power BI
+- Oracle SQL
+- DAX
+- Power Query
+- ETL
+- Data Modeling
+- Star Schema
+- Banking Analytics
+- Dashboard Design
+- KPI Development
+- Data Visualization
+- Business Intelligence
+
 # 🏦 BankingAB – Enterprise Core Banking Analytics Dashboard
 
 > **An end-to-end Power BI solution for Core Banking System (CBS) analytics built using Oracle SQL, Power Query, DAX, and Power BI Service.**
