@@ -163,8 +163,6 @@ The project follows a **Star Schema** for optimal performance and scalability.
 
 ## 📂 Repository Structure
 
-## 📂 Repository Structure
-
 ```text
 BankingAB-PowerBI-Portfolio
 │
