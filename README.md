@@ -163,16 +163,29 @@ The project follows a **Star Schema** for optimal performance and scalability.
 
 ## 📂 Repository Structure
 
+## 📂 Repository Structure
+
 ```text
 BankingAB-PowerBI-Portfolio
 │
-├── PBIX
-├── Documentation
-├── Images
-├── DAX
-├── SQL
-├── Insights
-├── Dataset
+├── 📁 PBIX
+│     └── BankingAB.pbix
+│
+├── 📁 Dataset
+│
+├── 📁 Documentation
+│     └── Project Documentation
+│
+├── 📁 Images
+│
+├── 📁 DAX
+│
+├── 📁 SQL
+│
+├── 📁 Insights
+│
+├── 📄 README.md
+└── 📄 LICENSE
 ```
 
 ---
