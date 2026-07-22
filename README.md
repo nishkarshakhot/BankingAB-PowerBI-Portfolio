@@ -2,6 +2,17 @@
   <img src="Images/cover.png" alt="BankingAB Cover Banner" width="100%">
 </p>
 
+## 📑 Quick Navigation
+
+- 📊 [Dashboard Preview](#-dashboard-preview)
+- 📈 [Business Insights](#-business-insights)
+- 📂 [Repository Structure](#-repository-structure)
+- 🧮 [DAX Measures](DAX/DAX_Measures.md)
+- 🗄️ [Oracle SQL Scripts](SQL/Oracle_SQL_Scripts.md)
+- 💡 [Business Insights Document](Insights/Business_Insights.md)
+- 📘 [Project Documentation](Documentation/BankingAB_Project.pdf)
+
+  
 <p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
